@@ -1,0 +1,3 @@
+com\RestDemo\DockerApplication.class
+com\RestDemo\Controller\DemoController.class
+com\RestDemo\Config\CorsConfig.class
